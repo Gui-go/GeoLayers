@@ -1,0 +1,7 @@
+config {
+  type: "declaration",
+  database: dataform.projectConfig.defaultDatabase,
+  schema: "geolayers",
+  name: "cities_i_have_been",
+}
+

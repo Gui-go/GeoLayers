@@ -1,0 +1,8 @@
+defaultProject: GeoLayers
+defaultLocation: US
+defaultDataset: personalhub11
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
+vars:
+ ENV: "dev"
+

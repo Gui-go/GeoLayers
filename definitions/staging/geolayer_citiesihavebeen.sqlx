@@ -1,0 +1,16 @@
+config {
+  type: "table",
+  database: dataform.projectConfig.defaultDatabase,
+  schema: "geolayers",
+  name: "cities_i_have_been",
+}
+
+SELECT * 
+FROM `personalhub11.gelayers.cities_ivebeen`
+
+
+
+
+
+
+
